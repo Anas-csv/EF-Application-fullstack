@@ -54,7 +54,7 @@ $$\hat{X}_{t+h} = L_t + h \times T_t$$
 
 ---
 
-###**Frontend :**
+##**Frontend :**
 React(Vite).
 Installation et démarrage :
 cd front
@@ -74,6 +74,6 @@ Le composant App.jsx a servi de support d'apprentissage pour les bases de React 
 
 ---
 
-####**Difficultés rencontrées:**
+##**Difficultés rencontrées:**
 Côté backend, aucune difficulté particulière si ce n'est que le lissage simple qui ne m'était pas satisfaisant et donc j'ai changé cela par un lissage double.
 Côté frontend, la difficulté secondaire fut le langage React qui m'était étranger, mais cela s'est plutôt bien passé. J'ai néanmoins rencontré une difficulté que je n'ai pu résoudre : Après avoir installé Recharts pour le graphique, Vite ne voulait plus mettre à jour les données en temps réel et je fus contraint de redémarrer le serveur à chacun de mes changements ce qui est dommage.
