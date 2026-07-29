@@ -54,7 +54,7 @@ $$\hat{X}_{t+h} = L_t + h \times T_t$$
 
 ---
 
-**Frontend :**
+###**Frontend :**
 React(Vite).
 Installation et démarrage :
 cd front
@@ -64,6 +64,7 @@ npm run dev
 Le frontend est développé en React, avec pour objectif d'afficher les données exposées par l'API : indicateurs synthétiques, tableau des valeurs, graphique comparatif, gestion des états de chargement et d'erreur.
 
 Le graphique comparant historique et prévisions utilise la librairie Recharts, à partir d'un exemple de graphique prêt à l'emploi trouvé sur GitHub, adapté aux données du projet.
+Le site web est le suivant : https://recharts.github.io/en-US/examples/ 
 
 Le composant Tableau.jsx, affichant les valeurs sous forme de tableau, a été généré avec l'aide d'une IA.
 
@@ -71,3 +72,8 @@ Le composant App.jsx a servi de support d'apprentissage pour les bases de React 
 
 *Attention : vous ne pouvez utiliser un seul terminal pour faire tourner uvicorn (localhost:8000) ET npm (localhost:5173), il vous en faudra deux.*
 
+---
+
+####**Difficultés rencontrées:**
+Côté backend, aucune difficulté particulière si ce n'est que le lissage simple qui ne m'était pas satisfaisant et donc j'ai changé cela par un lissage double.
+Côté frontend, la difficulté secondaire fut le langage React qui m'était étranger, mais cela s'est plutôt bien passé. J'ai néanmoins rencontré une difficulté que je n'ai pu résoudre : Après avoir installé Recharts pour le graphique, Vite ne voulait plus mettre à jour les données en temps réel et je fus contraint de redémarrer le serveur à chacun de mes changements ce qui est dommage.
