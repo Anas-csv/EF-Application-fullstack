@@ -1,0 +1,89 @@
+{
+  "site_id": "site_1",
+  "site_name": "Site Paris Nord",
+  "type": "tertiaire",
+  "unite": "kWh",
+  "historique": [
+    {
+      "mois": "2025-08",
+      "consommation": 9484.2
+    },
+    {
+      "mois": "2025-09",
+      "consommation": 10869.8
+    },
+    {
+      "mois": "2025-10",
+      "consommation": 12106.5
+    },
+    {
+      "mois": "2025-11",
+      "consommation": 13564.2
+    },
+    {
+      "mois": "2025-12",
+      "consommation": 14754.2
+    },
+    {
+      "mois": "2026-01",
+      "consommation": 15712.5
+    },
+    {
+      "mois": "2026-02",
+      "consommation": 14862.2
+    },
+    {
+      "mois": "2026-03",
+      "consommation": 13455.3
+    },
+    {
+      "mois": "2026-04",
+      "consommation": 12399.7
+    },
+    {
+      "mois": "2026-05",
+      "consommation": 10663.3
+    },
+    {
+      "mois": "2026-06",
+      "consommation": 9587.5
+    },
+    {
+      "mois": "2026-07",
+      "consommation": 8574.4
+    }
+  ],
+  "indicateurs": {
+    "moyenne": 12169.5,
+    "variance": 5074979.1,
+    "somme_cumulee": [
+      9484.2,
+      20354.0,
+      32460.5,
+      46024.7,
+      60778.9,
+      76491.4,
+      91353.6,
+      104808.9,
+      117208.6,
+      127871.9,
+      137459.4,
+      146033.8
+    ],
+    "evolution": [
+      null,
+      14.61,
+      11.38,
+      12.04,
+      8.77,
+      6.5,
+      -5.41,
+      -9.47,
+      -7.85,
+      -14.0,
+      -10.09,
+      -10.57
+    ],
+    "evolution_globale_pct": -9.59
+  }
+}

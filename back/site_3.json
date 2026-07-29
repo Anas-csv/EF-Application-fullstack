@@ -1,0 +1,89 @@
+{
+  "site_id": "site_3",
+  "site_name": "Site Marseille Sud",
+  "type": "residentiel",
+  "unite": "kWh",
+  "historique": [
+    {
+      "mois": "2025-08",
+      "consommation": 3598.8
+    },
+    {
+      "mois": "2025-09",
+      "consommation": 4927.5
+    },
+    {
+      "mois": "2025-10",
+      "consommation": 5797.2
+    },
+    {
+      "mois": "2025-11",
+      "consommation": 7693.1
+    },
+    {
+      "mois": "2025-12",
+      "consommation": 8420.1
+    },
+    {
+      "mois": "2026-01",
+      "consommation": 8809.6
+    },
+    {
+      "mois": "2026-02",
+      "consommation": 8989.8
+    },
+    {
+      "mois": "2026-03",
+      "consommation": 7544.4
+    },
+    {
+      "mois": "2026-04",
+      "consommation": 6109.3
+    },
+    {
+      "mois": "2026-05",
+      "consommation": 4917.4
+    },
+    {
+      "mois": "2026-06",
+      "consommation": 4006.8
+    },
+    {
+      "mois": "2026-07",
+      "consommation": 3357.3
+    }
+  ],
+  "indicateurs": {
+    "moyenne": 6180.9,
+    "variance": 3887195.4,
+    "somme_cumulee": [
+      3598.8,
+      8526.3,
+      14323.5,
+      22016.6,
+      30436.7,
+      39246.3,
+      48236.1,
+      55780.5,
+      61889.8,
+      66807.2,
+      70814.0,
+      74171.3
+    ],
+    "evolution": [
+      null,
+      36.92,
+      17.65,
+      32.7,
+      9.45,
+      4.63,
+      2.05,
+      -16.08,
+      -19.02,
+      -19.51,
+      -18.52,
+      -16.21
+    ],
+    "evolution_globale_pct": -6.71
+  }
+}

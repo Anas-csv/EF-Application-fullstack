@@ -1,0 +1,89 @@
+{
+  "site_id": "site_2",
+  "site_name": "Site Lyon Est",
+  "type": "industriel",
+  "unite": "kWh",
+  "historique": [
+    {
+      "mois": "2025-08",
+      "consommation": 28372.3
+    },
+    {
+      "mois": "2025-09",
+      "consommation": 26323.4
+    },
+    {
+      "mois": "2025-10",
+      "consommation": 28195.4
+    },
+    {
+      "mois": "2025-11",
+      "consommation": 28891.9
+    },
+    {
+      "mois": "2025-12",
+      "consommation": 30163.7
+    },
+    {
+      "mois": "2026-01",
+      "consommation": 28338.1
+    },
+    {
+      "mois": "2026-02",
+      "consommation": 28878.8
+    },
+    {
+      "mois": "2026-03",
+      "consommation": 27763.7
+    },
+    {
+      "mois": "2026-04",
+      "consommation": 26392.8
+    },
+    {
+      "mois": "2026-05",
+      "consommation": 25520.6
+    },
+    {
+      "mois": "2026-06",
+      "consommation": 25006.7
+    },
+    {
+      "mois": "2026-07",
+      "consommation": 24861.9
+    }
+  ],
+  "indicateurs": {
+    "moyenne": 27392.4,
+    "variance": 2709650.4,
+    "somme_cumulee": [
+      28372.3,
+      54695.7,
+      82891.1,
+      111783.0,
+      141946.7,
+      170284.8,
+      199163.6,
+      226927.3,
+      253320.1,
+      278840.7,
+      303847.4,
+      328709.3
+    ],
+    "evolution": [
+      null,
+      -7.22,
+      7.11,
+      2.47,
+      4.4,
+      -6.05,
+      1.91,
+      -3.86,
+      -4.94,
+      -3.3,
+      -2.01,
+      -0.58
+    ],
+    "evolution_globale_pct": -12.37
+  }
+}

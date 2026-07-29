@@ -1,0 +1,89 @@
+{
+  "site_id": "site_5",
+  "site_name": "Site Toulouse Ouest",
+  "type": "industriel",
+  "unite": "kWh",
+  "historique": [
+    {
+      "mois": "2025-08",
+      "consommation": 18875.8
+    },
+    {
+      "mois": "2025-09",
+      "consommation": 19546.3
+    },
+    {
+      "mois": "2025-10",
+      "consommation": 21668.6
+    },
+    {
+      "mois": "2025-11",
+      "consommation": 20444.3
+    },
+    {
+      "mois": "2025-12",
+      "consommation": 22598.7
+    },
+    {
+      "mois": "2026-01",
+      "consommation": 21420.7
+    },
+    {
+      "mois": "2026-02",
+      "consommation": 23669.7
+    },
+    {
+      "mois": "2026-03",
+      "consommation": 22592.0
+    },
+    {
+      "mois": "2026-04",
+      "consommation": 22749.4
+    },
+    {
+      "mois": "2026-05",
+      "consommation": 20797.1
+    },
+    {
+      "mois": "2026-06",
+      "consommation": 20979.7
+    },
+    {
+      "mois": "2026-07",
+      "consommation": 20399.9
+    }
+  ],
+  "indicateurs": {
+    "moyenne": 21311.9,
+    "variance": 1839248.8,
+    "somme_cumulee": [
+      18875.8,
+      38422.1,
+      60090.7,
+      80535.0,
+      103133.7,
+      124554.4,
+      148224.1,
+      170816.1,
+      193565.5,
+      214362.6,
+      235342.3,
+      255742.2
+    ],
+    "evolution": [
+      null,
+      3.55,
+      10.86,
+      -5.65,
+      10.54,
+      -5.21,
+      10.5,
+      -4.55,
+      0.7,
+      -8.58,
+      0.88,
+      -2.76
+    ],
+    "evolution_globale_pct": 8.07
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "site_id": "site_4",
+  "site_name": "Site Lille Centre",
+  "type": "tertiaire",
+  "unite": "kWh",
+  "historique": [
+    {
+      "mois": "2025-08",
+      "consommation": 6916.2
+    },
+    {
+      "mois": "2025-09",
+      "consommation": 8222.7
+    },
+    {
+      "mois": "2025-10",
+      "consommation": 9458.7
+    },
+    {
+      "mois": "2025-11",
+      "consommation": 11303.4
+    },
+    {
+      "mois": "2025-12",
+      "consommation": 12662.2
+    },
+    {
+      "mois": "2026-01",
+      "consommation": 12944.0
+    },
+    {
+      "mois": "2026-02",
+      "consommation": 13004.8
+    },
+    {
+      "mois": "2026-03",
+      "consommation": 11110.2
+    },
+    {
+      "mois": "2026-04",
+      "consommation": 10003.6
+    },
+    {
+      "mois": "2026-05",
+      "consommation": 8293.2
+    },
+    {
+      "mois": "2026-06",
+      "consommation": 7227.7
+    },
+    {
+      "mois": "2026-07",
+      "consommation": 7095.6
+    }
+  ],
+  "indicateurs": {
+    "moyenne": 9853.5,
+    "variance": 4954432.8,
+    "somme_cumulee": [
+      6916.2,
+      15138.9,
+      24597.6,
+      35901.0,
+      48563.2,
+      61507.2,
+      74512.0,
+      85622.2,
+      95625.8,
+      103919.0,
+      111146.7,
+      118242.3
+    ],
+    "evolution": [
+      null,
+      18.89,
+      15.03,
+      19.5,
+      12.02,
+      2.23,
+      0.47,
+      -14.57,
+      -9.96,
+      -17.1,
+      -12.85,
+      -1.83
+    ],
+    "evolution_globale_pct": 2.59
+  }
+}
